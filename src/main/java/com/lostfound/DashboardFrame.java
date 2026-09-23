@@ -65,7 +65,7 @@ public class DashboardFrame extends JFrame {
 
     // =========================
     // CONSTRUCTOR
-    // =========================
+    // =====================
     public DashboardFrame(int uid, String uname, String role) {
 
         this.uid = uid;
